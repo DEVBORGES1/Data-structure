@@ -1,0 +1,15 @@
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\bin\Debug\net8.0\dicionario.exe
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\bin\Debug\net8.0\dicionario.deps.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\bin\Debug\net8.0\dicionario.runtimeconfig.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\bin\Debug\net8.0\dicionario.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\bin\Debug\net8.0\dicionario.pdb
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.AssemblyInfoInputs.cache
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.AssemblyInfo.cs
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.csproj.CoreCompileInputs.cache
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.sourcelink.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\refint\dicionario.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.pdb
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\dicionario.genruntimeconfig.cache
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\dicionario\obj\Debug\net8.0\ref\dicionario.dll
