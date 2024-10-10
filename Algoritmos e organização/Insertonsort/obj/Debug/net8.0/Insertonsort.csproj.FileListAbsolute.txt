@@ -1,0 +1,14 @@
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\bin\Debug\net8.0\Insertonsort.exe
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\bin\Debug\net8.0\Insertonsort.deps.json
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\bin\Debug\net8.0\Insertonsort.runtimeconfig.json
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\bin\Debug\net8.0\Insertonsort.dll
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\bin\Debug\net8.0\Insertonsort.pdb
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.AssemblyInfoInputs.cache
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.AssemblyInfo.cs
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.csproj.CoreCompileInputs.cache
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.dll
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\refint\Insertonsort.dll
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.pdb
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\Insertonsort.genruntimeconfig.cache
+C:\Users\403392\Desktop\ESTRUTUTA-DE-DADOS-24-main\Algoritmos e organização\Insertonsort\obj\Debug\net8.0\ref\Insertonsort.dll
