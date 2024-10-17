@@ -1,0 +1,15 @@
+c:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfoInputs.cache
+c:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.AssemblyInfo.cs
+c:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.csproj.CoreCompileInputs.cache
+c:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.sourcelink.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\bin\Debug\net8.0\QuickSort.exe
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\bin\Debug\net8.0\QuickSort.deps.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\bin\Debug\net8.0\QuickSort.runtimeconfig.json
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\bin\Debug\net8.0\QuickSort.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\bin\Debug\net8.0\QuickSort.pdb
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\refint\QuickSort.dll
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.pdb
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\QuickSort.genruntimeconfig.cache
+C:\Users\403392\Desktop\Estrutura-de-Dados-2024-main\Algoritmos e organização\QuickSort\obj\Debug\net8.0\ref\QuickSort.dll
