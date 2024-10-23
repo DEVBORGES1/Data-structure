@@ -9,7 +9,7 @@ namespace ARVORES_BASICAS
     {
         public T? Data { get; set; }	
         public Node<T>? Parent { get; set; }
-        public List<Node<T>>? Children { get; set;}
+        public List<Node<T>>? Children { get; set;} = [];
         public int GetHeight()
         {
             int height = 1;
