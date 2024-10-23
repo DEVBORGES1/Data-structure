@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace ARVORES_BASICAS
 {
-    public class tree
+    public class Tree<T>
     {
-        
+        public Node<T>? Root { get; set; }
     }
 }
